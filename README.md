@@ -3,7 +3,7 @@
 The Java client is currently kept in the Stargate [core repository] because the protobuf stub is
 used by the server-side implementation as well as a client for tests. The `grpc-proto` module also
 contains helpers for authentication and value conversion for gRPC types to and from Java types. To
-use the client from you application use the following dependencies:
+use the client from your application use the following dependencies:
 
 ```xml
 <dependencies>
